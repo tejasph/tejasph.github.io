@@ -1,12 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: About me!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-Testing the addition of this line.
+My name is Tejas and I am a Data Science student at the University of British Columbia. I completed my undergraduate degree in Molecular Biology and Biochemistry at Simon Fraser University, where I was involved in the Thewalt Biophysics lab. 
