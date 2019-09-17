@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: More Info
 permalink: /about/
 ---
 
 Some information about you!
 
-### More Information
+### Lab Associations
 
-A place to include any other types of information that you'd like to include about yourself.
+[Jenifer Thewalt's Research Group] (https://www.sfu.ca/physics/research/groups/j-thewalt-research-group.html)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tphaterp@sfu.ca](mailto:tphaterp@sfu.ca)
