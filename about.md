@@ -8,7 +8,7 @@ Some information about you!
 
 ### Lab Associations
 
-[Jenifer Thewalt's Research Group] (https://www.sfu.ca/physics/research/groups/j-thewalt-research-group.html)
+[Jenifer Thewalt's Research Group](https://www.sfu.ca/physics/research/groups/j-thewalt-research-group.html)
 
 ### Contact me
 
